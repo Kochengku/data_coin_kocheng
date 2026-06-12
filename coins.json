@@ -44,11 +44,11 @@
   "dertuarfe@gmail.com": {
     "coin": 20
   },
-  "zhasktopia@gmail.com": {
-    "coin": 20
-  },
   "baranjan642@gmail.com": {
     "coin": 100
+  },
+  "zhasktopia@gmail.com": {
+    "coin": 20
   },
   "tessujii226@gmail.com": {
     "coin": 20
@@ -71,9 +71,6 @@
   "wazirymoods@gmail.com": {
     "coin": 12
   },
-  "diksd105@gmail.com": {
-    "coin": 20
-  },
   "hodygaming32@gmail.com": {
     "coin": 20
   },
@@ -82,9 +79,6 @@
   },
   "alfinzafitra2@gmail.com": {
     "coin": 20
-  },
-  "farijalsalimmuhamad@gmail.com": {
-    "coin": 80
   },
   "rioananda242010@gmail.com": {
     "coin": 20
@@ -101,14 +95,17 @@
   "premam028@gmail.com": {
     "coin": 20
   },
-  "kaliajasih1@gmail.com": {
-    "coin": 50
-  },
   "novalgg135@gmail.com": {
     "coin": 5
   },
   "rahmat.af.web@gmail.com": {
     "coin": 80
+  },
+  "kaliajasih1@gmail.com": {
+    "coin": 50
+  },
+  "farijalsalimmuhamad@gmail.com": {
+    "coin": 179
   },
   "renzzeestup@gmail.com": {
     "coin": 20
@@ -120,6 +117,12 @@
     "coin": 5
   },
   "fauzanmustaqiim05@gmail.com": {
+    "coin": 20
+  },
+  "aliifaryav1@gmail.com": {
+    "coin": 21
+  },
+  "diksd105@gmail.com": {
     "coin": 20
   }
 }
